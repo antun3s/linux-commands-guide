@@ -3,22 +3,27 @@ Busca e Filtragem
 - [[find]]
 - [[grep]]
 - [[sed]]
+
 Compactação e Descompactação
 - [[gzip]]
 - [[tar]]
 - [[zip-unzip]]
+
 Gerenciamento de Processos
 - [[bg-fg]]
 - [[kill]]
 - [[ps]]
+
 Leitura de Arquivos
 - [[cat]]
 - [[less]]
 - [[tail]]
+
 Monitoramento
 - [[htop]]
 - [[tcpdump]]
 - [[top]]
+
 Navegação e manipulação de Arquivos
 - [[cd]]
 - [[cp]]
@@ -31,6 +36,21 @@ Navegação e manipulação de Arquivos
 - [[rmdir]]
 - [[rm]]
 - [[touch]]
+
+Permissões e Propriedades
+- [[chgrp]]
+- [[chmod]]
+- [[chown]]
+
+Redes
+- [[ifconfig]]
+- [[ip]]
+- [[netstat]]
+- [[ping]]
+- [[scp]]
+- [[ss]]
+- [[ssh]]
+
 Outros Comandos Úteis
 - [[alias]]
 - [[curl]]
@@ -42,15 +62,3 @@ Outros Comandos Úteis
 - [[man]]
 - [[rsync]]
 - [[wget]]
-Permissões e Propriedades
-- [[chgrp]]
-- [[chmod]]
-- [[chown]]
-Redes
-- [[ifconfig]]
-- [[ip]]
-- [[netstat]]
-- [[ping]]
-- [[scp]]
-  [[ss]]
-- [[ssh]]
