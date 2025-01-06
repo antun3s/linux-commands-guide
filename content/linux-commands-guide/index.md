@@ -1,0 +1,64 @@
+Busca e Filtragem
+- [[awk]]
+- [[find]]
+- [[grep]]
+- [[sed]]
+
+Compactação e Descompactação
+- [[gzip]]
+- [[tar]]
+- [[zip-unzip]]
+
+Gerenciamento de Processos
+- [[bg-fg]]
+- [[kill]]
+- [[ps]]
+
+Leitura de Arquivos
+- [[cat]]
+- [[less]]
+- [[tail]]
+
+Monitoramento
+- [[htop]]
+- [[tcpdump]]
+- [[top]]
+
+Navegação e manipulação de Arquivos
+- [[cd]]
+- [[cp]]
+- [[head]]
+- [[ls]]
+- [[mkdir]]
+- [[more]]
+- [[mv]]
+- [[pwd]]
+- [[rmdir]]
+- [[rm]]
+- [[touch]]
+
+Permissões e Propriedades
+- [[chgrp]]
+- [[chmod]]
+- [[chown]]
+
+Redes
+- [[ifconfig]]
+- [[ip]]
+- [[netstat]]
+- [[ping]]
+- [[scp]]
+- [[ss]]
+- [[ssh]]
+
+Outros Comandos Úteis
+- [[alias]]
+- [[curl]]
+- [[date]]
+- [[df]]
+- [[du]]
+- [[echo]]
+- [[history]]
+- [[man]]
+- [[rsync]]
+- [[wget]]
